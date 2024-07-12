@@ -38,13 +38,13 @@ body {
 }
 
 .name > span {
-  color: #bbb;
+  color: #baa1a1;
 }
 
 .name-input {
   font-size: 24px;
   font-weight: 700;
-  color: #7e7e7e;
+  color: #bb943f;
   flex-grow: 1;
   border: none;
   margin: 0px 12px;
@@ -84,7 +84,7 @@ body {
   align-self: flex-end;
   background-color: #2d2d2d;
   box-shadow: 2px 2px 4px #dcdcdc;
-  color: #f6f6f6;
+  color: #f4f2f2;
 }
 
 .message-left > p > span,
@@ -99,7 +99,7 @@ body {
   font-style: italic;
   font-size: 14px;
   padding: 0px 16px 16px 16px;
-  color: #2d2d2d;
+  color: #342e2e;
   text-align: center;
 }
 
@@ -116,7 +116,7 @@ body {
   border: none;
   outline: none;
   padding: 0 12px;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .send-button {
@@ -125,17 +125,17 @@ body {
   border: none;
   padding: 0px 20px;
   outline: none;
-  background-color: #fff;
+  background-color: #9bcc4c;
   cursor: pointer;
 }
 
 .v-divider {
   height: 48px;
   width: 2px;
-  background-color: #f6f6f6;
+  background-color: #ecc3c3;
 }
 
 .clients-total {
   margin: 20px 0;
-  color: #7e7e7e;
+  color: #a1802c;
 }
